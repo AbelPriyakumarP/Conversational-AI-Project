@@ -12,6 +12,10 @@ This project demonstrates how to build a Question Answering application using a 
 
 ---
 
+![image alt](https://github.com/AbelPriyakumarP/Conversational-AI-Project/blob/48cd66670da23c867727c06d68293ed9e2624187/qa.png)
+
+---
+
 ## 🚀 Features
 
 * Uses Hugging Face's `transformers` library
